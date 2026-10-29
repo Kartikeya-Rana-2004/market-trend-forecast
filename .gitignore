@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.parquet
+*.json
+!data/
+.env
+.venv/
+env/
+venv/
+.DS_Store
+Thumbs.db
